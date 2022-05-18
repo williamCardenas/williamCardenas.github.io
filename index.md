@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Bem vindo ao meu espaço de textos e ideias' #'Welcome, this is my workspace to texts and idea'
 description: null
 image: null
 author: null
